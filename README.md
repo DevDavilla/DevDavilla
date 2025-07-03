@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil meu pefil! 😁
+## Bem-vindo(a) ao meu pefil! 😁
 
  <div>
    <a href="https://github.com/DevDavilla">
