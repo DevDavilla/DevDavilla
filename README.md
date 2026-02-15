@@ -19,9 +19,9 @@ Desenvolvedor Full Stack focado em soluções robustas e escaláveis. Fundador d
 ### 📊 Estatísticas do GitHub
 <div align="center">
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevDavilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevDavilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDavilla&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800" />
+  <img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevDavilla&layout=compact&langs_count=6&theme=tokyonight" />
 
 </div>
 
